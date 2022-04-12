@@ -5,9 +5,6 @@
     "log-out": {
         "command": "xfce4-session-logout --logout"
     },
-    "suspend": {
-        "command": "xfce4-session-logout --suspend"
-    },
     "hibernate": {
         "command": "xfce4-session-logout --hibernate"
     },
