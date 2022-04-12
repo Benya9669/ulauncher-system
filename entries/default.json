@@ -13,13 +13,6 @@
         "aliases": ["log out", "logout", "leave"],
         "command": null
     },
-    "suspend": {
-        "name": "Suspend",
-        "description": "Suspend to memory.",
-        "icon": "system-suspend",
-        "aliases": ["suspend", "sleep"],
-        "command": "systemctl suspend -i"
-    },
     "hibernate": {
         "name": "Hibernate",
         "description": "Suspend to disk.",
